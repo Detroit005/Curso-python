@@ -22,4 +22,3 @@ if st.button('Classificar'):
         st.write('Classificação: Pré-diabetico')
     else:
         st.write('Classificação: Diabetico')
-

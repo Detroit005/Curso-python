@@ -13,7 +13,7 @@ if st.button('Calcular'):
             p= a+b+c
             st.success('A figura é um triângulo')
             if a==b and b==c and a==c:
-                st.write('A figura é um triângulo equilatero')
+                st.write('A figura é um triângulo equilátero')
             elif a==c and a==b:
                 st.write('A figura é um triângulo isósceles')
             else:

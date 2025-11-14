@@ -3,7 +3,7 @@ from math import sqrt,pow
 set_page_config(page_title = 'Bhaskara Calculator')
 # Função python
 def calculo(delta):
-    valor = (sqrt(delta)) / 2 * a
+    valor = (sqrt(delta)) / (2 * a)
     return valor
 header('Calculadora Bhaskara')
 write('Calculadora de raízes \n de uma equação de 2º grau')
